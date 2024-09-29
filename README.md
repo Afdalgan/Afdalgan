@@ -1,4 +1,4 @@
-![Afdal Ziqri card name](https://cardivo.vercel.app/api?name=Muh%20Afdal%20Zqri%20Ramadhan&description=Hi,%20i%27m%20a%20enthusiast%20programmer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://tyrant04.github.io/assets/img/testimonial-2.jpg?v=4&backgroundColor=%23ecf0f1&instagram=_afdlziqriii&linkedin=I%20Afdal%20Ziqri&github=Afdalgan&pattern=leaf&colorPattern=%23eaeaea)
+![Afdal Ziqri card name](https://cardivo.vercel.app/api?name=Muh%20Afdal%20Zqri%20Ramadhan&description=Hi,%20i%27m%20a%20enthusiast%20programmer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://tyrant04.github.io/assets/img/testimonial-2.jpg?v=4&backgroundColor=%23ecf0f1&instagram=_afdlziqriii&linkedin=I%20Afdal%20Ziqri&github=Afdalgan&pattern=topography&colorPattern=%23eaeaea)
 
 
  
