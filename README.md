@@ -1,9 +1,6 @@
-# Hello Everyone! 
- 
-Introducing my name **Muh. Afdal Ramadhan**.<br>
- 
-im a **Curriculum Developer** in [Dicoding](https://www.dicoding.com/).<br>
-if you are interesed in getting to know me, please follow my [Linkedin](https://www.linkedin.com/in/afdalziqri/) account.
+![Afdal Ziqri card name](https://cardivo.vercel.app/api?name=Muh%20Afdal%20Zqri%20Ramadhan&description=Hi,%20i%27m%20a%20enthusiast%20programmer%20and%20i%27m%2020%20y.o.%20Nice%20to%20meet%20you%20%F0%9F%91%8B&image=https://tyrant04.github.io/assets/img/testimonial-2.jpg?v=4&backgroundColor=%23ecf0f1&instagram=_afdlziqriii&linkedin=I%20Afdal%20Ziqri&github=Afdalgan&pattern=leaf&colorPattern=%23eaeaea)
+
+
  
 ### Github Statistic
 <p align="left">
